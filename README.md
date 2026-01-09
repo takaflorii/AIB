@@ -26,14 +26,14 @@ AIB/
 ⸻
 
 ```
-🐍 Linguagem Utilizada
+## 🐍 Linguagem Utilizada
 	•	Python 3
 
 Os scripts presentes no repositório correspondem a exercícios práticos e exemplos trabalhados nas aulas de Aplicações Informáticas B.
 
 ⸻
 
-▶️ Como Executar os Ficheiros
+## ▶️ Como Executar os Ficheiros
 	1.	Certifica-te de que tens o Python 3 instalado:
 
 python --version
@@ -57,7 +57,7 @@ python nome_do_ficheiro.py
 
 ⸻
 
-📚 Contexto Escolar
+## 📚 Contexto Escolar
 	•	📖 Disciplina: Aplicações Informáticas B
 	•	🏫 Ensino Secundário
 	•	🎓 Finalidade: educativa / escolar
@@ -66,6 +66,6 @@ Este repositório não tem fins comerciais.
 
 ⸻
 
-✍️ Autor
+ ## ✍️Autor
 	•	takaflorii
 
