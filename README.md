@@ -25,6 +25,7 @@ AIB/
 
 ⸻
 
+```
 🐍 Linguagem Utilizada
 	•	Python 3
 
