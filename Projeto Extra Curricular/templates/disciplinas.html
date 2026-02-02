@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Disciplinas</h2>
+
+<form method="POST">
+    <input type="text" name="nome" placeholder="Nome da Disciplina" required>
+    <button type="submit">Adicionar Disciplina</button>
+</form>
+
+<ul>
+    {% for d in disciplinas %}
+        <li>{{ d.nome }}</li>
+    {% else %}
+        <li>Nenhuma disciplina registada.</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
