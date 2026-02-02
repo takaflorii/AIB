@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 fig, ax = plt.subplots()
 
 fruits = ['apple', 'blueberry', 'cherry', 'orange']
