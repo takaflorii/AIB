@@ -22,5 +22,6 @@ def le_matriz(matriz):
 if __name__ == "__main__":
     # exemplo: cria e imprime cada linha em separado (uma linha por print)
     m = cria_matriz(3, 4, 0)
+    m= le_matriz(m)
     for linha in m:
         print(linha)
